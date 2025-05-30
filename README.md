@@ -3,7 +3,7 @@
 I'm currently pursuing my Masters in Data Science at Eastern University. I'm passionate about using data to provide insights that solve real world problems. I've been a R&D Engineer/Product Developer in the Textile industry and I passionate about merging my industry experience within the Data world. As I always say: Data doesn't lie!
 
 #### Interests
-Machine Learning • Data Visualization  • Predictive Modeling • AI Ethics
+Machine Learning • Data Visualization  • Predictive Modeling 
 
 #### Fun fact: 
 My bucket list item is to visit all 62 US National Parks- I have been to 20!
