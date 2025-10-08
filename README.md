@@ -10,10 +10,10 @@ Fun fact: My bucket list item is to visit all 62 US National Parks- I have been 
 
 ## GitHub Projects
 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-|[Final Grade Predictor](https://github.com/samcirceo/FinalGradePredictor) **PRIVATE* *|October 2025|Python, Jupyter Notebook, MatplotLib, Seaborn|Delivered an interpretable machine learning model capable of predicting final grades with strong accuracy. The project highlights practical skills in data preprocessing, model selection, evaluation, and data-driven insight generation. |
-|[Mental Health Score Predictor](https://github.com/samcirceo/MentalHealthPredictor) **PRIVATE* *|April 2025|R, dplyr, ggplot2|Developed a regression model in R to predict mental health scores based on several factors. This project highlights skills in exploratory data analysis using descriptive statistics and visualizations to uncover trends. |
+| Project Link |  Tools | Project Description | 
+|---|---|---|
+|*PRIVATE* [Final Grade Predictor](https://github.com/samcirceo/FinalGradePredictor) |Python, Jupyter Notebook, MatplotLib, Seaborn|Delivered an interpretable machine learning model capable of predicting final grades with strong accuracy. The project highlights practical skills in data preprocessing, model selection, evaluation, and data-driven insight generation. |
+|*PRIVATE* [Mental Health Score Predictor](https://github.com/samcirceo/MentalHealthPredictor) |R, dplyr, ggplot2|Developed a regression model in R to predict mental health scores based on several factors. This project highlights skills in exploratory data analysis using descriptive statistics and visualizations to uncover trends. |
 
 For private repositories, please reach out to review contents.
 
