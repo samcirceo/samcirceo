@@ -1,14 +1,17 @@
 ## Welcome to my Data Portfolio
 
-I'm currently a Masters student in Data Science at Eastern University. I'm passionate about using data to provide insights that solve real world problems. I've been a R&D Engineer/Product Developer in the Textile industry and I passionate about merging my industry experience within the Data world. As I always say: Data doesn't lie!
+I am a BS in Textile Engineering from North Carolina State University & I'm currently a Masters student in Data Science at Eastern University. I'm passionate about using data to provide insights that solve real world problems. I've been a R&D Engineer/Product Developer in the Textile industry and I am passionate about merging my industry experience within the Data world. As I always say: Data doesn't lie!
 
-#### Interests
+Fun fact: My bucket list item is to visit all 62 US National Parks- I have been to 20!
+
+<img width="70" height="75" alt="image" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
+<img width="85" height="85" alt="image" src="https://github.com/user-attachments/assets/80294959-3724-4e69-b47f-00e652c92e81" />
+
+
+
+## Interests
 Machine Learning • Data Visualization  • Predictive Modeling 
 
-#### Fun fact: 
-My bucket list item is to visit all 62 US National Parks- I have been to 20!
-
-📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/samantha-circeo-406b76123/).
 
 ## GitHub Projects
 
@@ -17,7 +20,9 @@ My bucket list item is to visit all 62 US National Parks- I have been to 20!
 |[Final Grade Predictor](https://github.com/samcirceo/FinalGradePredictor) **PRIVATE* *|October 2025|Python, Jupyter Notebook, MatplotLib, Seaborn|Delivered an interpretable machine learning model capable of predicting final grades with strong accuracy. The project highlights practical skills in data preprocessing, model selection, evaluation, and data-driven insight generation. |
 |[Mental Health Score Predictor](https://github.com/samcirceo/MentalHealthPredictor) **PRIVATE* *|April 2025|R, dplyr, ggplot2|Developed a regression model in R to predict mental health scores based on several factors. This project highlights skills in exploratory data analysis using descriptive statistics and visualizations to uncover trends. |
 
-For private repositories, please reach out via email to review contents. 
+For private repositories, please reach out to review contents.
+
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/samantha-circeo-406b76123/) or email via samantha.circeo@eastern.edu.
 
 
 <!--
