@@ -12,6 +12,12 @@ My bucket list item is to visit all 62 US National Parks- I have been to 20!
 
 ## GitHub Projects
 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+|Final Grade Predictor *private repo*|October 2025|Python, Jupyter Notebook, MatplotLib, Seaborn|Machine Learning project that evaluates predictive models that estimate a student's Final Grade based on midterm grades, study habits, background, and other features. Performed EDA, Modeling, and Evaluation with business recomendations |
+
+For private repositories, please reach out via email to review contents. 
+
 
 <!--
 **samcirceo/samcirceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
