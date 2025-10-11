@@ -18,7 +18,7 @@ Fun fact: My bucket list item is to visit all 62 US National Parks- I have been 
 
 
 
-For private repositories, please reach out to review contents.
+For private repositories, please reach out with your git username/email to gain access.
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/samantha-circeo-406b76123/) or email via samantha.circeo@eastern.edu.
 
