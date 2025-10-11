@@ -1,8 +1,10 @@
 ## Welcome to my Data Portfolio
 
-I have a BS in Textile Engineering from North Carolina State University & I'm currently earning my Masters of Data Science from Eastern University. I'm passionate about using data to provide insights that solve real world problems. I've been a R&D Engineer/Product Developer in the Textile industry and I am passionate about merging my industry experience within the Data world. As I always say: data doesn't lie!
+I'm a Textile Engineering graduate from North Carolina State University & currently pursuing a Master's in Data Science at Eastern University. I'm passionate about using data to provide insights that solve real world problems. With hands-on experience as a Research & Development Engineer and Product Developer in the textile industry, I've seen firsthand how data can transform decisions and drive innovation. 
 
-Fun fact: My bucket list item is to visit all 62 US National Parks- I have been to 20! I'd love to hear about your favorite parks. 
+I am passionate about bridging the gap between industry experience and data-driven insights, turning complex datasets into actionable solutions that solve real-world problems. As I always say: *data doesn't lie!*
+
+Fun fact: My bucket list item is to visit all 62 US National Parks- I have been to 20 so far! I'd love to hear about your favorite parks. 
 
 <img width="60" height="65" alt="image" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/80294959-3724-4e69-b47f-00e652c92e81" />
