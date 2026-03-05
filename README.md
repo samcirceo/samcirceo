@@ -1,4 +1,4 @@
-## Hi! I'm Samantha. Welcome to my Data Portfolio 
+## Hi, I'm Samantha! Welcome to my Data Portfolio 
 
 <div align= 'center'>
   <img width="70"  alt="image1" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
@@ -25,23 +25,10 @@ Fun fact: My bucket list item is to visit all 62 US National Parks. I have been 
 |<img src="images/taxi.jpeg" width="300"/>|[New York Taxi Analysis](https://github.com/samcirceo/New-York-Taxi-Analysis)|Python|Developed a regression model in Python to predict hourly NYC taxi rates per given hour and region. |
 
 
-
-For private repositories, please reach out with your git username/email to gain access.
+***PRIVATE repositories**:
+Due to university policy, I am unable to publicly post the code & project work to ensure the assignment remains confidential. For these repositories, feel free to [reach out](samantha.circeo@eastern.edu) with your git username/email to gain access.
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/samantha-circeo-406b76123/) or email via samantha.circeo@eastern.edu.
 
 
-<!--
-**samcirceo/samcirceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
