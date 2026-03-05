@@ -6,8 +6,11 @@ I am passionate about bridging the gap between industry experience and data-driv
 
 Fun fact: My bucket list item is to visit all 62 US National Parks- I have been to 20 so far! I'd love to hear about your favorite parks. 
 
-<img width="60" height="65" alt="image" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
-<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/80294959-3724-4e69-b47f-00e652c92e81" />
+<div align="center">
+  <img width="70"  alt="image1" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 4 non-breaking spaces -->
+  <img width="100"  alt="image2" src="https://github.com/user-attachments/assets/80294959-3724-4e69-b47f-00e652c92e81" />
+</div>
 
 
 ## GitHub Projects
