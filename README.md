@@ -1,16 +1,19 @@
 ## Welcome to my Data Portfolio
 
+<div align="center">
+  <img width="70"  alt="image1" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 4 non-breaking spaces -->
+  <img width="82"  alt="image2" src="easternlogo.png" />
+</div>
+
 I'm a Textile Engineering graduate from North Carolina State University & obtained a Master's in Data Science at Eastern University. I'm passionate about using data to provide insights that solve real world problems. With hands-on experience as a Research & Development Engineer and Product Developer in the textile industry, I've seen firsthand how data can transform decisions and drive innovation. 
 
 I am passionate about bridging the gap between industry experience and data-driven insights, turning complex datasets into actionable solutions that solve real-world problems. As the cliche goes: *data doesn't lie!*
 
 Fun fact: My bucket list item is to visit all 62 US National Parks- I have been to 20 so far! I'd love to hear about your favorite parks. 
 
-<div align="center">
-  <img width="70"  alt="image1" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 4 non-breaking spaces -->
-  <img width="100"  alt="image2" src="https://github.com/user-attachments/assets/80294959-3724-4e69-b47f-00e652c92e81" />
-</div>
+
+
 
 
 ## GitHub Projects
