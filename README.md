@@ -25,7 +25,7 @@ Fun fact: My bucket list item is to visit all 62 US National Parks. I have been 
 
 
 ***PRIVATE repositories**:
-Due to university policy, I cannot publicly share the code or project work to ensure confidentiality. If you’d like access, feel free to reach out with your GitHub username or email, and I will grant access.
+Due to university policy, I cannot publicly share the code or project work to ensure confidentiality. If you’d like access, feel free to reach out with your GitHub username or email(that is linked to a GitHub account), and I will grant access. You will then receive an email with an invitation into the repo. 
 
 📫 How to reach me: Email me via samantha.circeo@eastern.edu or message me on [LinkedIn](https://www.linkedin.com/in/samantha-circeo-406b76123/) .
 
