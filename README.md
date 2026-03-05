@@ -19,7 +19,7 @@ Fun fact: My bucket list item is to visit all 62 US National Parks. I have been 
 
 |Image| Project Link |  Tools | Project Description | 
 |---|---|---|---|
-|<img src="https://github.com/samcirceo/MushroomClassification/blob/67b441760dd7f58c93f0a3c31d973715af963ea1/images/mushroom.png" width="300" />|*PRIVATE* [Mushroom Classifier](https://github.com/samcirceo/MushroomClassifier)|Python, TensorFlow|Developed a CNN model with PCA in Python to classify mushrooms as poisonous or edible. |
+|<img src="images/mushroom.png" width="300" />|*PRIVATE* [Mushroom Classifier](https://github.com/samcirceo/MushroomClassifier)|Python, TensorFlow|Developed a CNN model with PCA in Python to classify mushrooms as poisonous or edible. |
 | <img src="images/grades.jpeg" width="300"/> |*PRIVATE* [Final Grade Predictor](https://github.com/samcirceo/FinalGradePredictor) |Python, MatplotLib, Seaborn, Sklearn|Delivered a machine learning model capable of predicting final grades with strong accuracy. The project highlights practical skills in data preprocessing, model selection, evaluation, and data-driven insight generation. |
 |<img src="images/mentalhealth.jpeg" width="300"/>|*PRIVATE* [Mental Health Predictor](https://github.com/samcirceo/MentalHealthPredictor) |R, dplyr, ggplot2|Developed a regression model in R to predict mental health scores based on several factors. This project highlights skills in exploratory data analysis using descriptive statistics and visualizations to uncover trends. |
 |<img src="images/taxi.jpeg" width="300"/>|[New York Taxi Analysis](https://github.com/samcirceo/New-York-Taxi-Analysis)|Python|Developed a regression model in Python to predict hourly NYC taxi rates per given hour and region. |
