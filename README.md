@@ -10,7 +10,7 @@ I'm a Textile Engineering graduate from North Carolina State University & obtain
 
 I am passionate about bridging the gap between industry experience and data-driven insights, turning complex datasets into actionable solutions that solve real-world problems. As the cliche goes: *data doesn't lie!*
 
-Fun fact: My bucket list item is to visit all 62 US National Parks- I have been to 20 so far! I'd love to hear about your favorite parks. 
+Fun fact: My bucket list item is to visit all 62 US National Parks. I have been to 20 so far! I'd love to hear about your favorite parks. 
 
 
 
