@@ -20,9 +20,11 @@ Fun fact: One of my bucket list goals is to visit all 62 U.S. National Parks. I 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-1F77B4) 
+![ggplot2](https://img.shields.io/badge/ggplot2-EA5E5E)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+<!--   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) -->
 
 ## GitHub Projects
 
