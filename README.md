@@ -6,7 +6,7 @@
   <img width="70" alt="NC State logo" src="https://github.com/user-attachments/assets/84a13e28-91ce-44c4-9ec8-aed597be177b">
 </div>
 
-I’m a data enthusiast with an **M.S. in Data Science** from Eastern University and a **B.S. in Textile Engineering** from NC State. I love digging into data to uncover insights that help make smarter decisions and spark innovation. With experience in engineering, R&D, and product development within the textile industry, I enjoy turning complex datasets into actionable solutions—because _data doesn’t lie_!
+I’m a data enthusiast with an **M.S. in Data Science** from Eastern University and a **B.S. in Textile Engineering** from NC State. I love digging into data to uncover insights that help make smarter decisions and spark innovation. With experience in Engineering, Research & Development, and Product Development within the textile industry, I enjoy turning complex datasets into actionable solutions—because _data doesn’t lie_!
 
 Fun fact: One of my bucket list goals is to visit all 62 U.S. National Parks. I have been to 20 so far! I'd love to hear about your favorite parks. 
 
