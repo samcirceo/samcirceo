@@ -1,4 +1,4 @@
-## Hi, I'm Samantha! Welcome to my Data Portfolio 
+## Hi, I'm Samantha! Welcome to my Data Portfolio ## 
 
 <div align="center">
   <img width="82" alt="Eastern University logo" src="images/easternlogo.png">
@@ -39,8 +39,7 @@ Fun fact: One of my bucket list goals is to visit all 62 U.S. National Parks. I 
 Due to university policy, I cannot publicly share the code for some projects.  If you'd like access, please reach out with your GitHub username or the email associated with your GitHub account, and I will grant access. You will then receive an invitation to the repository.
 
 ## Currently Working On
-Expanding my portfolio with additional machine learning and data visualization projects
-
+Expanding my portfolio with additional machine learning and data visualization projects, and exploring cloud technologies to bring projects online.
 
 ## 📫 **How to reach me**
 
