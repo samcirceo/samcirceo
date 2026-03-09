@@ -8,25 +8,16 @@
 
 I’m a data enthusiast with an **M.S. in Data Science** from Eastern University and a **B.S. in Textile Engineering** from NC State. I love digging into data to uncover insights that help make smarter decisions and spark innovation. With experience in Engineering, Research & Development, and Product Development within the textile industry, I enjoy turning complex datasets into actionable solutions—because _data doesn’t lie_!
 
-Fun fact: One of my bucket list goals is to visit all 62 U.S. National Parks. I have been to 20 so far! I'd love to hear about your favorite parks. 
+Fun fact: One of my bucket list goals is to visit all 62 U.S. National Parks. I have been to 20 so far!
 
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![dplyr](https://img.shields.io/badge/dplyr-1F77B4) 
-![ggplot2](https://img.shields.io/badge/ggplot2-EA5E5E)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50)
-<!--   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) -->
+**Programming Languages:** Python, R, SQL  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, dplyr, ggplot2  
+**Tools:** Tableau, Data Visualization, Machine Learning
 
-## GitHub Projects
+## Projects
 
 | | Project | Tools | Description |
 |---|---|---|---|
@@ -41,7 +32,7 @@ Due to university policy, I cannot publicly share the code for some projects.  I
 ## Currently Working On
 Expanding my portfolio with additional machine learning and data visualization projects, and exploring cloud technologies to bring projects online.
 
-## 📫 **How to reach me**
+##  **How to reach me**
 
 Email: samantha.circeo@eastern.edu  
 LinkedIn: [samantha-circeo](https://www.linkedin.com/in/samantha-circeo-406b76123/)
