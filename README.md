@@ -4,7 +4,7 @@ Hi, my name is Samantha, and I am a data enthusiast with an **M.S. in Data Scien
 
 **Fun fact**: One of my bucket list goals is to visit all 62 U.S. National Parks. I have been to 20 so far!
 
-**Technical Skills** :  Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow), R(dplyr, ggplot2), SQL, Tableau, and AWS Cloud Computing to build scalable machine learning models and visualizations to life
+**Technical Skills** :  Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow), R(dplyr, ggplot2), SQL, Tableau, AWS Cloud Computing, Machine Learning, and Data Visualization
 
 Want to see my work? [Check out my portfolio](https://samcirceo.github.io/) or view my project repositories below:
 
