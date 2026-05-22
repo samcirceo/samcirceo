@@ -9,7 +9,9 @@ Fun fact: One of my bucket list goals is to visit all 62 U.S. National Parks. I 
 
 **Programming Languages:** Python, R, SQL  
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, dplyr, ggplot2  
-**Tools:** Tableau, Data Visualization, Machine Learning
+**Tools:** Tableau, Data Visualization, Machine Learning, AWS Cloud Computing
+
+[Check out my portfolio](https://samcirceo.github.io/) or view my project repositories below:
 
 ## Projects
 
