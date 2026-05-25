@@ -2,7 +2,7 @@
 
 Hi, my name is Samantha, and I am a data enthusiast with an **M.S. in Data Science** from Eastern University and a **B.S. in Textile Engineering** from NC State. I love digging into data to uncover insights that help make smarter decisions and spark innovation. With experience in Engineering, Research & Development, and Product Development within the textile industry, I enjoy turning complex datasets into actionable solutions—because _data doesn’t lie_!
 
-**Fun fact**: One of my bucket list goals is to visit all 62 U.S. National Parks. I have been to 20 so far!
+**Fun fact**: One of my bucket list goals is to visit all 63 U.S. National Parks. I have been to 25 so far!
 
 **Technical Skills** :  Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow), R(dplyr, ggplot2), SQL, Tableau, AWS Cloud Computing, Machine Learning, and Data Visualization
 
