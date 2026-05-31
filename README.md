@@ -26,7 +26,7 @@ Expanding my portfolio with additional machine learning and data visualization p
 
 ##  **How to reach me**
 
-Email: samantha.circeo@eastern.edu  
+Email: samicirceo1@gmail.com  
 LinkedIn: [samantha-circeo](https://www.linkedin.com/in/samantha-circeo-406b76123/)
 
 
