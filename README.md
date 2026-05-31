@@ -1,6 +1,8 @@
 # Welcome to my GitHub page ## 
 
-Hi, my name is Samantha, and I am a data enthusiast with an **M.S. in Data Science** from Eastern University and a **B.S. in Textile Engineering** from NC State. I love digging into data to uncover insights that help make smarter decisions and spark innovation. With experience in Engineering, Research & Development, and Product Development within the textile industry, I enjoy turning complex datasets into actionable solutions—because _data doesn’t lie_!
+Hi, my name is Samantha, and I am a data enthusiast with an M.S. in Data Science from Eastern University and a B.S. in Textile Engineering from NC State. I enjoy turning complex datasets into actionable insights that support smarter decision-making and innovation. With a background in engineering, R&D, and product development in the textile industry, I focus on applying data science to real-world problems.
+
+I am currently building end-to-end machine learning projects with a focus on predictive modeling, data visualization, and cloud deployment (AWS).
 
 **Fun fact**: One of my bucket list goals is to visit all 63 U.S. National Parks. I have been to 25 so far!
 
