@@ -20,7 +20,7 @@ Hi, my name is Samantha, and I am a data enthusiast with an M.S. in Data Science
 |<img src="images/taxi.jpeg" width="220"/>|[New York Taxi Analysis](https://github.com/samcirceo/New-York-Taxi-Analysis)|![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)|Regression model predicting hourly NYC taxi demand across regions.|
 
 ***Private repositories:** 
-Due to university policy, I cannot publicly share the code for some projects.  If you'd like access, please reach out with your GitHub username or the email associated with your GitHub account, and I will grant access. You will then receive an invitation to the repository.
+Due to university policy, I cannot publicly share the code for some projects.  If you'd like access, please reach out with your GitHub username or the email associated with your GitHub account, and I will grant access. You will then receive an invitation to the repository. However, a public overview is available for quick viewing. 
 
 ## Currently Working On
 Expanding my portfolio with additional machine learning and data visualization projects, and exploring cloud technologies to bring projects online.
