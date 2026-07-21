@@ -8,7 +8,7 @@ Hi, my name is Samantha, and I am a data enthusiast with an M.S. in Data Science
 **Technical Skills** :  Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow), SQL (PostgreSQL), R(dplyr, ggplot2),  Tableau, AWS, Machine Learning, and Data Visualization
 
 
-🚀 Want to see my work? [Check out my portfolio](https://samcirceo.github.io/) or view my project repositories below:
+Want to see my work? [Check out my portfolio](https://samcirceo.github.io/) or view my project repositories below:
 
 
 ## Projects
